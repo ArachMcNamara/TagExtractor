@@ -174,6 +174,7 @@ public class TagExtractor extends JFrame {
             return;
         }
 
+
         JFileChooser chooser = new JFileChooser();
 
         if (chooser.showSaveDialog(this)
